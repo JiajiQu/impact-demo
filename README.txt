@@ -1,4 +1,4 @@
-Impact-Model Demo  (FI-2010 DecPre, single pseudo-ticker)
+Impact-Model Demo 
 ========================================================
 
 ENVIRONMENT
